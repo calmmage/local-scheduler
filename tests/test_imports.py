@@ -2,6 +2,6 @@ import pytest
 
 
 def test_imports():
-    from project_name.main import main
+    from src.main import main
 
     assert main
